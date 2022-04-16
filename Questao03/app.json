@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Questao03",
+    "slug": "Questao03",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
